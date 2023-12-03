@@ -201,3 +201,9 @@ a:active {
   justify-content: center;
   text-align: center;
 }
+
+@media only screen and (max-width: 1000px) {
+  html {
+    font-size: 50%;
+  }
+}
